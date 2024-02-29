@@ -1,0 +1,430 @@
+
+
+
+@font-face {
+    font-family:brandon;
+    src: url(font/HvDTrial_Brandon_Grotesque_regular-BF64a625c9311e1.otf);
+
+    
+}
+.bg-darkgreen{
+    background-color: #304820;
+
+}
+
+body{
+}
+h1,h2,h3,h4,h5,h6,p
+{
+    font-family: brandon;
+
+}
+#navbarNav{
+    background-color: #304820;
+    
+    } 
+
+.navbarNav{
+    background-color: #304820;
+
+    } 
+.navbar{
+  
+    height: 90px;
+    background: #304820 ;
+
+} 
+main{
+    background-color: #F8F7F4;
+}
+.-margin-top{
+    margin: -100px;
+}
+.container-fluid{
+    background-color: #F8F7F4;
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+    margin: 0 14px;
+
+}
+.light-grey-bg{
+background-color: #F8F7F4;
+}
+.bg-hero{
+    background: url(lurking_hippo_by_prowler7_dbp0zak-pre.jpg)no-repeat center center/cover;
+    height: 80vh;
+}
+.flex-clm-hero-container{
+    padding-top: 50px;
+    color:  white;
+    
+    width: 40%;
+}
+.title-text{
+    font-size: 3.5rem;
+ border-bottom: 4px solid white;
+}
+.main-container-btn{
+    color: #318061;
+    font-size: 20px;
+    padding: 2px 20px;
+    border: 0;
+    border-radius: 3px;
+}
+.lightgreen{
+    color: #318061;
+
+}
+
+.navbar-toggler-icon{
+    color: white;
+    background-color: #304820;
+    font-size: 39px;
+    display: flex;
+    align-items: center;
+}
+/* secound-container with tiger image---- */
+
+.tiger-img{
+    width: 100%;
+    height: 90%;
+}
+.clm-flex-price-container{
+padding-left: 10px;
+}
+.container-preise{
+    color: #318061;
+    
+}
+.container-preise p{
+font-size: 20px;
+font-weight: 700;
+
+}
+.border-buttom{
+    border-bottom: 3px solid #318061;
+    width: 40%;
+    margin-bottom: -2px;
+    font-weight: 700;
+    font-size: 65px;
+}
+.border-buttom p{
+font-size: 40px;
+}
+
+
+
+
+/* secound-container with tiger image---- */
+
+/* timing container---3rd-container--------------- */
+.container-with-darkgreen{
+    background-color: #304820;
+}
+
+
+
+.tiger-img-container{
+    height: 80%;
+
+    width: 100%;
+}
+.clm-flex-timing-container{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 10px;
+    padding-top: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+.table-priceing{
+    border: none;
+    font-size: 17px;
+    width: 100%;
+    text-align: left;
+ color: #318061;   
+}
+ table tr{
+    border: none;
+    color: #318061;   
+
+}
+.table-priceing tr td{
+    border: none;
+    color: #318061;   
+    margin: 1px 2px;
+padding: 1px 12px;
+}
+
+
+.pro{
+font-weight: 500;
+text-align: left;
+justify-content: left;
+font-size: 18px;
+line-height: 20px;
+}
+.clm-flex-price-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 00px;
+
+}
+
+/* pricing container------------------ */
+.align-center-row{
+    display: flex;
+    align-items: center;
+   
+}
+
+
+/* timing table container---------- */
+.table-white{
+color: white;
+}
+
+.table-white tr td{
+    color: white;
+    }
+    
+.table-white tr th{
+    color: white;
+    }
+
+    .clm-flex-timing-container{
+        padding: 10px 10px;
+        display: flex;
+    
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    
+.border-buttom-white{
+    border-bottom: 3px solid white;
+   font-size: 60px;
+    margin-bottom: -2px;
+    font-weight: 700;
+    font-size: 40PX;
+    width: 100%;
+}
+.monkey-img{
+    width: 100%;
+    height: 350px;
+}
+.container-timing{
+    padding-bottom: 50px;
+}
+/* timing table container---------- */
+
+.team-container{
+
+width: 100%;
+height: 100%;
+margin: 10px 0;
+/* background: url(img/team.png)no-repeat center center/cover; */
+    
+}
+.underline{
+    text-decoration: underline;
+    color: #318061;
+}
+
+/* Wir kümmern uns um die Tiere! */
+.container-pra-shape{
+    color: #318061;
+}
+.pra-with-lightheight{
+    line-height: 24px;
+}
+.container-darkgreen-shape{
+    height: 40%;
+    width: 80%;
+    margin-top: -50px;
+    color: #304820;
+   
+}
+
+
+/* Wir kümmern uns um die Tiere! */
+
+.border-radius-shadow{
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: #00000026 2px 2px 8px 2px;
+    padding: 14px 20px;
+    border-radius: 20px;
+}
+
+
+
+.title-elepent{
+    font-size: 40px;
+    position: absolute;
+    top: -200px;
+    width: 100%;
+}
+.-margin-top-container{
+    margin-top: -100px;
+}
+
+.darkgreenfooter{
+    background-color: #304820;
+    padding: 50px 30px;
+
+}
+/* .border-buttom-white-footer{
+border-bottom: 3px solid white;
+
+} */
+
+
+
+
+
+@media only screen and (max-width: 1100px) {
+    .flex-clm-hero-container {
+        padding-top: 106px;
+        color: white;
+        width: 54%;
+    }
+    .-margin-top {
+        margin: 10px;
+    }
+    .title-elepent {
+        font-size: 31px;
+        position: absolute;
+        top: -115px;
+        width: 100%;
+    }
+
+.container-darkgreen-shape {
+    height: 95%;
+    width: 100%;
+    margin-top: 10px;
+    color: #304820;
+}
+  .container-pra-shape{
+font-size: 10px;
+  }
+  .mb-width-full{
+    width: 100%;
+  }
+  .shpe-mbl{
+    width: 100%;
+  }
+
+  .title-elepent {
+    font-size: 31px;
+    position: absolute;
+    top: -90px;
+    width: 50%;
+}
+
+.-margin-top-container {
+    margin-top: 40px;
+}
+.relative{
+    margin-top: 100px;
+}
+.logo{
+    width: 70%;
+}
+
+}
+
+
+@media only screen and (max-width: 700px) {
+    .flex-clm-hero-container {
+        padding-top: 106px;
+        color: white;
+        width: 100%;
+    
+
+
+}
+.bg-hero {
+    background: url(lurking_hippo_by_prowler7_dbp0zak-pre.jpg)no-repeat center center/cover;
+    height: 50vh;
+}
+.border-buttom-white {
+    border-bottom: 3px solid white;
+    font-size: 60px;
+    margin-bottom: -2px;
+    font-weight: 700;
+    font-size: 32PX;
+    width: 100%;
+}
+.monkey-img {
+    width: 100%;
+    height: 227px;
+}
+
+.table-priceing {
+    border: none;
+    /* display: flex; */
+    font-size: 12px;
+    width: 100%;
+    text-align: left;
+    color: #318061;
+}
+.table td, .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+    font-size: 12px;
+}
+}
+
+
+@media only screen and (max-width: 500px) {
+    
+    .flex-clm-hero-container {
+        padding-top: 50px;
+        color: white;
+        width: 100%;
+    }
+.title-text {
+    font-size: 2rem;
+    border-bottom: 4px solid white;
+}
+.main-container-btn {
+    color: #318061;
+    font-size: 14px;
+    padding: 2px 20px;
+    border: 0;
+    border-radius: 3px;
+}
+.border-buttom-white {
+    border-bottom: 3px solid white;
+    font-size: 60px;
+    margin-bottom: -2px;
+    font-weight: 700;
+    font-size: 26PX;
+    width: 100%;
+}
+
+.border-buttom-white {
+    border-bottom: 3px solid white;
+    font-size: 60px;
+    margin-bottom: -2px;
+    font-weight: 700;
+    font-size: 26PX;
+    width: 100%;
+}
+
+
+}
+
+
+
+
+
+    
